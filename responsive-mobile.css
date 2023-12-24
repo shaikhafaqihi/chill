@@ -1,0 +1,81 @@
+
+
+@media (max-width:767px) {
+    .home-elem-1 {
+        background: linear-gradient(270deg, rgba(255, 255, 255, 0.5)100%, rgb(181, 255, 252)100%) 0% 0% / auto no-repeat no-repeat scroll border-box padding-box, url(https://res.cloudinary.com/dbyioi2qq/q_auto/v1672056498/static/norbu-gyachung-x1ibln3ppj8-unsplashjpg_1672056498_21158.jpg) 50% 50% / cover no-repeat no-repeat scroll border-box padding-box;
+        height: auto;
+        max-height: none
+    }
+
+    .home-elem-2 {
+        padding: 20px 16px 0px 16px;
+        align-items: center;
+        column-gap: 10px;
+        row-gap: 10px
+    }
+
+    .home-elem-3 {
+        flex-wrap: wrap;
+        justify-content: flex-end;
+        column-gap: 10px;
+        min-width: auto
+    }
+
+    .home-elem-7 {
+        padding: 101px 16px 66px 16px;
+        align-items: center;
+        height: 100%
+    }
+
+    .home-elem-11 {
+        position: relative
+    }
+
+    .home-elem-8 {
+        font-size: 50px;
+        line-height: 60px;
+        text-align: center;
+        height: fit-content;
+        max-height: null%
+    }
+
+    .home-elem-9 {
+        text-align: center
+    }
+
+    .home-elem-10 {
+        padding: 79px 16px 55px 16px
+    }
+
+    .home-elem-166 {
+        position: relative
+    }
+
+    .home-elem-169 {
+        position: relative
+    }
+
+    .home-elem-168 {
+        position: relative
+    }
+
+    .home-elem-170 {
+        position: relative
+    }
+
+    .home-elem-12 {
+        padding: 64px 16px 64px 16px
+    }
+
+    .home-elem-13 {
+        font-size: 25px;
+        line-height: 35px
+    }
+
+    .home-elem-14 {
+        flex-direction: column
+    }
+}
+
+
+@media (max-width:767px) {}
