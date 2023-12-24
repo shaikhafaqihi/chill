@@ -1,2 +1,213 @@
-# chill
-lablab
+<!DOCTYPE html><html><head>
+    <title>Trektechie - Home</title>
+
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" type="text/css" href="responsive-mobile.css">
+    <link rel="stylesheet" type="text/css" href="responsive-tablet.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <style>
+        /*
+
+    Note: For display flex to work, you have to add 
+    
+    .your-class-name{
+      display:flex;
+    }
+    
+    .your-class-name > div {
+      position: static !important;
+    }
+    
+    */
+
+        /* place css code */
+    </style>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Quattrocento Sans:100,200,300,400,500,600,700,800,900">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Noto Sans TC:100,200,300,400,500,600,700,800,900">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Kumbh Sans:100,200,300,400,500,600,700,800,900">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Nunito Sans:100,200,300,400,500,600,700,800,900">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Arimo:100,200,300,400,500,600,700,800,900">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Inter:100,200,300,400,500,600,700,800,900">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Manrope:100,200,300,400,500,600,700,800,900">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open Sans:100,200,300,400,500,600,700,800,900">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900">
+</head>
+
+<body class="_home_container">
+
+    <div class="home-elem-1">
+        <div class="home-elem-2">
+            <div class="home-elem-3">
+                <div class="home-elem-4"> </div>
+            </div>
+        </div>
+        <div class="home-elem-7"> <span class="home-elem-11">
+                <p>Trektechie </p>
+            </span><span class="home-elem-8">
+                <p>Tailored, Trendy Travel</p>
+            </span><span class="home-elem-9">
+                <p><br></p>
+                <p>Your Adventure Whisperer</p>
+            </span></div>
+    </div>
+    <div class="home-elem-10">
+        <div class="home-elem-167"> <span class="cd-paragraph-clean home-elem-166" output-box="value">
+                <p><br></p>
+            </span></div><input type="text" placeholder="Example text" class="home-elem-169 home-elem-169" input-box="true">
+        <div class="home-elem-168"> </div><button class="home-elem-170" send-button="value">
+            <p>Send</p>
+        </button><input type="text" placeholder="Example text" class="home-elem-169 home-elem-169" input-box="true">
+    </div>
+    <div class="home-elem-12"> <span class="cd-paragraph-clean home-elem-13">
+            <p>Make every step user-centric</p>
+        </span>
+        <div class="home-elem-14">
+            <div class="home-elem-15">
+                <div class="home-elem-16"> <span class="cd-paragraph-clean home-elem-17">
+                        <p>Destination Recommendations</p>
+                    </span><span class="cd-paragraph-clean home-elem-18">
+                        <p><br></p>
+                        <p>Tailored spots just for you! Uncover hidden gems and vibes. Our AI suggests destinations that scream 'YOU'. From quirky cities to serene escapes, get recommendations perfectly aligned with your vibe, thanks to our savvy AI</p>
+                        <p><br></p>
+                    </span></div>
+            </div>
+            <div class="home-elem-30">
+                <div class="home-elem-29"> <span class="cd-paragraph-clean home-elem-27">
+                        <p>Real-Time Assistance</p>
+                    </span><span class="cd-paragraph-clean home-elem-28">
+                        <p><br></p>
+                        <p>Travel worry-free with our AI's 24/7 support and real-time guidance wherever you roam. Explore confidently with on-the-spot help and local insights at your fingertips!</p>
+                        <p><br></p>
+                        <p><br></p>
+                    </span></div>
+            </div>
+            <div class="home-elem-26">
+                <div class="home-elem-25"> <span class="cd-paragraph-clean home-elem-23">
+                        <p>Personalized Travel Planning</p>
+                    </span><span class="cd-paragraph-clean home-elem-24">
+                        <p>Elevate your travel game! Our AI crafts personalized trips, suggesting dreamy destinations that fit your style. Let's turn your travel dreams into tailor-made adventures! Our AI delves into your preferences for a personalized travel experience.</p>
+                    </span></div>
+            </div>
+            <div class="home-elem-19">
+                <div class="home-elem-20"> <span class="cd-paragraph-clean home-elem-21">
+                        <p>Customized Plans</p>
+                    </span><span class="cd-paragraph-clean home-elem-22">
+                        <p>Planning's a breeze! Our AI crafts personalized route, tailoring adventures to your style. Ready for a journey? Our AI maps step-by-step shcedules that match your interests for an unforgettable experience.</p>
+                    </span></div>
+            </div>
+        </div>
+    </div>
+    <div class="home-elem-31"> <span class="home-elem-32">
+            <p>Gallery</p>
+        </span><span class="home-elem-33">
+            <p><br></p>
+        </span>
+        <div class="home-elem-34"> <span class="zoom home-elem-38"> <a href="https://images.unsplash.com/photo-1702916402710-006541a7517f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w5MTMyMXwwfDF8YWxsfDE0OHx8fHx8fDJ8fDE3MDMxOTI2Mzl8&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=200" class="link" target="_blank"><img src="assets/kitchen2565105hkpr_1703299262_56411.jpg"></a> </span><span class="zoom home-elem-45"> <img src="assets/kitchen2565105zj8y_1703299350_26919.jpg"> </span><span class="zoom home-elem-36"> <img src="assets/home-elem-36_1703302244_59634.jpg"> </span><span class="zoom home-elem-48"> <img src="assets/kitchen2565105hypd_1703299389_73140.jpg"> </span><span class="zoom home-elem-40"> <img src="assets/kitchen2565105hdyy_1703299436_62646.jpg"> </span><span class="zoom home-elem-42"> <img src="assets/kitchen2565105hawx_1703299451_25414.jpg"> </span><span class="zoom home-elem-39"> <img src="assets/kitchen2565105cwmb_1703299470_26512.jpg"> </span><span class="zoom home-elem-35"> <img src="assets/kitchen2565105facl_1703299510_88146.jpg"> </span><span class="zoom home-elem-47"> <img src="assets/kitchen2565105xyy6_1703299526_53534.jpg"> </span><span class="zoom home-elem-44"> <img src="assets/kitchen2565105qqex_1703299548_80523.jpg"> </span><span class="zoom home-elem-46"> <img src="assets/kitchen2565105gii4_1703299573_94245.jpg"> </span><span class="zoom home-elem-37"> <img src="assets/kitchen2565105xiug_1703299609_97226.jpg"> </span><span class="zoom home-elem-43"> <img src="assets/kitchen2565105vyws_1703299638_69065.jpg"> </span><span class="zoom home-elem-49"> <img src="assets/kitchen2565105qenm_1703299665_20179.jpg"> </span><span class="zoom home-elem-41"> <img src="assets/kitchen2565105wzsy_1703299694_42251.jpg"> </span></div>
+    </div>
+    <div class="home-elem-61">
+        <div class="home-elem-60">
+            <div class="home-elem-59"> <span class="home-elem-50">
+                    <p>Free</p>
+                </span><span class="home-elem-56">
+                    <p>$0</p>
+                </span><span class="home-elem-57">
+                    <p>per month</p>
+                </span><span class="home-elem-58">
+                    <p>Access basic features of the AI chatbot for personalized travel planning</p>
+                    <p><br></p>
+                </span><button class="home-elem-55">
+                    <p>Get Started</p>
+                </button><span class="home-elem-62">
+                    <p>For Professional Small Business and Startups</p>
+                </span>
+                <div class="home-elem-54">
+                    <div class="home-elem-53"> <i class="fas fa-circle home-elem-51"></i><span class="home-elem-52">
+                            <p>Personalized travel planning with AI chatbot</p>
+                            <p><br></p>
+                        </span></div>
+                    <div class="home-elem-67"> <i class="fas fa-circle home-elem-65"></i><span class="home-elem-66">
+                            <p>Destination recommendations based on user preferences</p>
+                            <p><br></p>
+                        </span></div>
+                    <div class="home-elem-64"> <i class="fas fa-circle home-elem-63"></i><span class="home-elem-164">
+                            <p>Access to traveler community engagement</p>
+                        </span></div>
+                </div>
+            </div>
+            <div class="home-elem-101"> <span class="home-elem-85">
+                    <p>Basic</p>
+                </span><span class="home-elem-97">
+                    <p>$7</p>
+                </span><span class="home-elem-98">
+                    <p>per month</p>
+                </span><span class="home-elem-99">
+                    <p>Unlock additional features for a more enhanced travel planning experience</p>
+                    <p><br></p>
+                </span><button class="home-elem-96">
+                    <p>Get Started</p>
+                </button><span class="home-elem-100">
+                    <p>For Large Agencies with teams and multiple projects</p>
+                </span>
+                <div class="home-elem-95">
+                    <div class="home-elem-88"> <i class="fas fa-circle home-elem-86"></i><span class="home-elem-87">
+                            <p>All features of FREE plan</p>
+                            <p><br></p>
+                        </span></div>
+                    <div class="home-elem-94"> <i class="fas fa-circle home-elem-92"></i><span class="home-elem-93">
+                            <p>Customized itineraries based on user preferences</p>
+                            <p><br></p>
+                        </span></div>
+                    <div class="home-elem-91"> <i class="fas fa-circle home-elem-89"></i><span class="home-elem-90">
+                            <p>Real-time assistance throughout the travel journey</p>
+                            <p><br></p>
+                        </span></div>
+                    <div class="home-elem-104"> <i class="fas fa-circle home-elem-102"></i><span class="home-elem-103">
+                            <p>Integration with travel services for seamless booking and reservation management</p>
+                            <p><br></p>
+                        </span></div>
+                </div>
+            </div>
+            <div class="home-elem-84"> <span class="home-elem-68">
+                    <p>Pro</p>
+                </span><span class="home-elem-80">
+                    <p>$20</p>
+                </span><span class="home-elem-81">
+                    <p>per month</p>
+                </span><span class="home-elem-82">
+                    <p>Get the ultimate travel planning experience with premium features and benefits</p>
+                    <p><br></p>
+                </span><button class="home-elem-79">
+                    <p>Get Started</p>
+                </button><span class="home-elem-83">
+                    <p>For Businesses with large ad spends, security and compliance needs</p>
+                </span>
+                <div class="home-elem-78">
+                    <div class="home-elem-71"> <i class="fas fa-circle home-elem-69"></i><span class="home-elem-70">
+                            <p>&nbsp;All features of BASIC plan</p>
+                            <p><br></p>
+                        </span></div>
+                    <div class="home-elem-77"> <i class="fas fa-circle home-elem-75"></i><span class="home-elem-76">
+                            <p>Advanced AI chatbot capable of understanding complex user preferences</p>
+                            <p><br></p>
+                        </span></div>
+                    <div class="home-elem-74"> <i class="fas fa-circle home-elem-72"></i><span class="home-elem-73">
+                            <p>Tailored destination recommendations aligned with user's interests</p>
+                            <p><br></p>
+                        </span></div>
+                    <div class="home-elem-107"> <i class="fas fa-circle home-elem-105"></i><span class="home-elem-106">
+                            <p>Adaptive and modified travel itineraries based on real-time changes or user feedback</p>
+                            <p><br></p>
+                        </span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="home-elem-165"> </div>
+
+
+</body></html>
